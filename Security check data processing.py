@@ -28,6 +28,7 @@ from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.common.exceptions import SessionNotCreatedException
 from datetime import datetime, timedelta
 
+
 # 配置文件路径
 CONFIG_FILE = 'config2.json'
 
