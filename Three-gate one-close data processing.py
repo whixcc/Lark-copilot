@@ -25,6 +25,7 @@ from selenium.common.exceptions import SessionNotCreatedException
 CONFIG_FILE = 'config1.json'
 LOG_FILE = '三关一闭.log'
 
+
 # 配置log
 logging.basicConfig(filename=LOG_FILE, level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
